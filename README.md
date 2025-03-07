@@ -6,9 +6,9 @@ This is an introductory school project for a Full-Stack development class at Bri
 
 ## The To-do List Project
 
-The project consists of a to-do list based on a video tutorial by the Web Dev Simpliflied channel, and customized by me to fit the class's needs. 
+The project consists of a to-do list based on a video tutorial by the Web Dev Simplified channel, and customized by me to fit the class's needs. 
 
-Follow the link to get access to the [full tutorial](https://youtu.be/Rh3tobg7hEo?si=2co3Has8qJKT_QA1)
+Follow the link to get access to the [full tutorial.](https://youtu.be/Rh3tobg7hEo?si=2co3Has8qJKT_QA1)
 
 ## Let's Connect!
 
